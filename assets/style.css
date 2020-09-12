@@ -7349,7 +7349,7 @@ h6 {
       position: relative; }
       .booking-fig h2:after {
         position: absolute;
-        background: url("./shadows/.archivetemplogo.png");
+        background: url("./shadows/archivetemplogo.png");
         content: '';
         width: 163px;
         top: -119px;
